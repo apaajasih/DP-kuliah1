@@ -1,10 +1,4 @@
-#Menghitung Gaji
-# gajiBulanan = 
-# transport = 100.000/hari
-# makan = 50.000/hari
-# uang lembur = 2 jam pertama itu 100.000, selebihnya 150.000
-
-# berapa honor yang saya dapatkan jika saya bekerja selama 21 hari dan lembur 10 jam.
+#Menghitung Gajiiiiii
 
 gaji_bulanan=int(input("Gaji bulanan : "))
 masuk_kerja=int(input("Berapa hari anda bekerja ? "))
